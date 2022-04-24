@@ -8,7 +8,7 @@ import java.io.ByteArrayOutputStream;
  *
  * @auth /**
  * @ClassName SM4
- * @Description sm4加密
+ * @Description sm4加密包
  * @Author wsw
  * @Date 2021/10/28 16:17
  */
